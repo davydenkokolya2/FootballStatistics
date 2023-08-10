@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">FootballStatistics</string>
+    <string name="back">BACK</string>
+    <string name="completed_game">Completed Game</string>
+    <string name="choose_a_league">Choose a league</string>
+    <string name="full_information">Full Information</string>
+    <string name="game">Game</string>
+    <string name="germany_oberliga_nofv_sud">Germany Oberliga NOFV Sud</string>
+    <string name="intuition_points">Intuition points</string>
+    <string name="league">League</string>
+    <string name="germany_landespokal">Germany Landespokal</string>
+    <string name="germany_oberliga_hamburg">Germany Oberliga Hamburg</string>
+    <string name="germany_bundesliga_i">Germany Bundesliga I</string>
+    <string name="england_premier_league">England Premier League</string>
+    <string name="wales_premier_league">Wales Premier League</string>
+    <string name="belgium_first_division_a">Belgium First Division A</string>
+    <string name="france_ligue_1">France Ligue 1</string>
+    <string name="germany_oberliga_mittelrhein">Germany Oberliga Mittelrhein</string>
+    <string name="rule">You have a unique chance to test your logic and intuition, and maybe your knowledge! Choose a match and try to guess the outcome. If you can\'t choose a match by yourself, our great random function does it for you!</string>
+    <string name="_1_game">1 game</string>
+    <string name="_10_05">10.05</string>
+    <string name="point_history">Point history</string>
+    <string name="_3_game">3 game</string>
+    <string name="_09_05">09.05</string>
+    <string name="_4_game">4 game</string>
+    <string name="_05_05">05.05</string>
+    <string name="_5_game">5 game</string>
+    <string name="_01_05">01.05</string>
+    <string name="_2_game">2 game</string>
+    <string name="_25_04">25.04</string>
+    <string name="_rule">Rule</string>
+    <string name="main">MAIN</string>
 </resources>
